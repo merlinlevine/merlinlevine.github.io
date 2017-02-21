@@ -1,2 +1,2 @@
 # merlinlevine.github.io
-Personal Website
+Quick personal website using the HTML5 UP Identity template.
